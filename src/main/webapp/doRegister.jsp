@@ -11,7 +11,7 @@
 <%@ page import="org.json.JSONObject" %>
 <%!
   public boolean verifyRecaptcha(String gRecaptchaResponse) {
-    String secretKey = "6Le6p-kqAAAAADJoWovZ79OYsN-mXZ-zog1brfrl"; // Замените на свой Secret Key
+    String secretKey = ""; // Замените на свой Secret Key
     String url = "https://www.google.com/recaptcha/api/siteverify";
 
     try {

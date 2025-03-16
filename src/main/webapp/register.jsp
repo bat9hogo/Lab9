@@ -34,7 +34,7 @@
       <tr>
         <td>Защита от ботов:</td>
         <td>
-          <div class="g-recaptcha" data-sitekey="6Le6p-kqAAAAAPyRCW6tLicaGvRgjt58qMbDl-k2"></div>
+          <div class="g-recaptcha" data-sitekey=""></div> // Замените на свой Site Key
         </td>
       </tr>
       <tr>
